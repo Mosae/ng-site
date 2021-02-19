@@ -23,3 +23,24 @@ a:hover {
 .section-container {
   padding: 30px;
 }
+.card-theme {
+  background-color: #191f26 !important;
+  border: none;
+  border-radius: 2px !important;
+}
+.card-heading-theme {
+  color: #eee !important;
+  border-top-right-radius: 0px !important;
+  border-top-left-radius: 0px;
+  padding: 12px;
+}
+.card-body-theme {
+  background-color: #494f56 !important;
+}
+.cards {
+  display: flex;
+  flex-direction: column;
+}
+.sections-container {
+  padding: 30px;
+}
